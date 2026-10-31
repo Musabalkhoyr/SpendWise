@@ -1,0 +1,6 @@
+{
+  "name": "SpendWise AI",
+  "description": "An intelligent personal expense tracker and financial management system with AI insights, natural language expense recording, receipt scanning, and budget analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
